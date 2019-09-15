@@ -34,5 +34,5 @@ Once the extension is installed, simply use it in your code by  :
 The recommended way to mark up a code block (both for semantics and for Prism) is a pre element with a code element inside, like so:
 
 ```html
-<pre><code class="language-php">p { color: red }</code></pre>
+<pre><code class="language-css">p { color: red }</code></pre>
 ```
