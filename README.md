@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \yii2cmf\prism\AutoloadExample::widget(); ?>```
+<?= \yii2cmf\prism\PrismAsset::register($this); ?>```
