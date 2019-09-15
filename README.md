@@ -31,7 +31,9 @@ Once the extension is installed, simply use it in your code by  :
 ```php
 <?= \yii2cmf\prism\PrismAsset::register($this); ?>
 ```
+
 The recommended way to mark up a code block (both for semantics and for Prism) is a <pre> element with a <code> element inside, like so:
+
 ```
 <pre><code class="language-php">p { color: red }</code></pre>
 ```
